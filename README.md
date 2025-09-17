@@ -1,4 +1,4 @@
-# Kassoum Sanogo - Portfolio Website
+# Anthony RENARD - Portfolio Website
 
 Un site web portfolio moderne et responsive présentant mes compétences en Intelligence Artificielle, Machine Learning et Data Engineering.
 
